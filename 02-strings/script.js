@@ -3,7 +3,7 @@
 // Stampa il valore di nome nella console.
 
 const nome = "Carlo"
-console,console.log(nome);
+console.log(nome);
 
 
 // 2. Tipi primitivi
